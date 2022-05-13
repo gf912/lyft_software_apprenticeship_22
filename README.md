@@ -1,5 +1,4 @@
-# lyft_software_apprenticeship_22
-Lyft Software Engineering Apprenticeship 2022 - Technical Sample
+# Lyft Software Engineering Apprenticeship 2022 - Technical Sample
 
 A web application written in Python that:
         Accept a POST request to the route “/test”, which accepts one argument “string_to_cut”
