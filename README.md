@@ -1,8 +1,8 @@
 # Lyft Software Engineering Apprenticeship 2022 - Technical Sample
 
 A web application written in Python that:
-        Accept a POST request to the route “/test”, which accepts one argument “string_to_cut”
-        Return a JSON object with the key “return_string” and a string containing every third letter from the original string
+- Accept a POST request to the route “/test”, which accepts one argument “string_to_cut”
+- Return a JSON object with the key “return_string” and a string containing every third letter from the original string
 
 Sample Run Code: 
 - If you POST {"string_to_cut": "iamyourlyftdriver"}, it will return: {"return_string": "muydv"}.
